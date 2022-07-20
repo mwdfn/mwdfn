@@ -15,10 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical" />
 </a>
 <a href="https://github.com/mwdfn/fantastic_birds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdfn&repo=fantastic_birds&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical" />
 </a>
 <a href="https://github.com/mwdfn/gym_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdfn&repo=gym_web_app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical" />
 </a>
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
