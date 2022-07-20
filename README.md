@@ -44,7 +44,7 @@
 
 
 ### Development
-<div align = "center" border = "20" borderColor="#000000" >
+<div align = "center" border = "20" borderColor="#ffffff" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="JavaScript" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
