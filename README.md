@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" alt="django" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" title="cypress" alt="cypress" height="32" width="32"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" title="cypress" alt="cypress" height="32" width="32" border = "20" borderColor="#ffffff"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
 </div>
 
