@@ -19,7 +19,7 @@
 </a>
 <a href="https://github.com/mwdfn/gym_web_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical" />
-</a>. 
+</a>  
   
   
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
