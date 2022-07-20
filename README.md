@@ -20,6 +20,6 @@
 <a href="https://github.com/mwdfn/gym_web_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical" />
 </a>
-<br></br>
+<br>
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
