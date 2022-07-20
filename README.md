@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-<img src="https://i.gifer.com/ATEd.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/ATEd.gif" align="center" title="Banner Image" alt="Banner Image" />
 </div>  
   
 
