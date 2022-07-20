@@ -61,12 +61,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" alt="django" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" title="cypress" alt="cypress" height="32" width="32" border = "20" borderColor="#ffffff"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript%23F7DF1E?logo=JavaScript">
+<img src="https://img.shields.io/badge/Javascript-Javascript%23F7DF1E?logo=JavaScript">
 </div>
 
 ### Design
 <div align = "center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="30" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="photoshop" alt="photoshop" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" alt="blender" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;
