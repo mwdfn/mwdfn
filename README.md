@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical" />
 </a>  
   
-  
+</br>
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +19,7 @@
 </div>  
   
 
-### <div align="center">Hello there! I'm Mark  👋</div>  
+### <div>Hello there! I'm Mark  👋</div>  
   
 
 - 👾 Passionate about front end development  
@@ -120,4 +120,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
