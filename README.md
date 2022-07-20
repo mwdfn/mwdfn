@@ -44,6 +44,7 @@
   </a>&nbsp;
 </div>
 
+<br/>
 
 ## My Skill Set  
 
@@ -77,7 +78,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="figma" alt="figma"/>&nbsp;
 </div>
 
-
 <br/>  
 
 ## Github Stats  
@@ -92,15 +92,8 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 
 <br />
 
-----
