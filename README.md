@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring"/>&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgress" alt="Postgress"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB"/>&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="django" alt="django"/>&nbsp;
@@ -76,10 +76,11 @@
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&theme=radical" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact" align="right" /></div>  
-
+<div style="display: flex; flex-direction: row" align="center" gap="30px">
+<img src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&theme=radical" align="left" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact" align="right" />
+</div>  
 <br/>  
 
   
