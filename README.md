@@ -94,6 +94,7 @@
 <br/>  
 
 ## Github Stats  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" title="figma" alt="figma" height="32" width="32"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&hide_border=true&layout=compact" align="right" /></div>  
