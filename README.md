@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=bear&icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwdfn&theme=radical&icon=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=bear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
