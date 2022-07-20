@@ -28,13 +28,13 @@
 <div align="center">
   <a href="https://github.com/mwdfn/MindSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/mwdfn/fantastic_birds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>&nbsp;
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/mwdfn/gym_web_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
-  </a>
+  </a>&nbsp;
 </div>
 
 
