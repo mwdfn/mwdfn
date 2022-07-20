@@ -77,9 +77,9 @@
 
 ## Github Stats  
 <div style="display: flex; flex-direction: row" align="center" gap="30px">
-<img src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&theme=radical" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&theme=radical"/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact"/>
 </div>  
 <br/>  
 
