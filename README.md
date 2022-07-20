@@ -11,13 +11,13 @@
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mwdfn/MindSpace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mwdfn/fantastic_birds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdfn&repo=fantastic_birds&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mwdfn/gym_web_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdfn&repo=gym_web_app&theme=radical" />
 </a>
 
