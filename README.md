@@ -2,7 +2,7 @@
 <!-- ![ATEd](https://user-images.githubusercontent.com/101065163/180074671-a5ac7286-c8c7-49cc-8c1b-a75a3b6dd9ee.gif padding-top:46.600% position:relative)
  -->
  
-<img src="https://user-images.githubusercontent.com/101065163/180074671-a5ac7286-c8c7-49cc-8c1b-a75a3b6dd9ee.gif" alt="Banner Image">
+<img src="https://user-images.githubusercontent.com/101065163/180074671-a5ac7286-c8c7-49cc-8c1b-a75a3b6dd9ee.gif" alt="Banner Image" width="100%" height="100%">
  
  
 <!-- 
@@ -28,7 +28,7 @@
   
 <br/>
 
-## Pinned Repos
+## Pinned Projects
 <div align="center">
   <a href="https://github.com/mwdfn/MindSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
