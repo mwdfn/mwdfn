@@ -25,22 +25,24 @@
 <br/>
 
 ## Pinned Repos
-<a href="https://github.com/mwdfn/MindSpace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
-</a>
-<a href="https://github.com/mwdfn/fantastic_birds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>&nbsp;
-</a>
-<a href="https://github.com/mwdfn/gym_web_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
-</a>  
+<div align="center">
+  <a href="https://github.com/mwdfn/MindSpace">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
+  </a>
+  <a href="https://github.com/mwdfn/fantastic_birds">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>&nbsp;
+  </a>
+  <a href="https://github.com/mwdfn/gym_web_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
+  </a>
+</div>
 
 
 ## My Skill Set  
 
 
 ### Development
-<div align = "center" border = "20" borderColor="#ffffff" >
+<div align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
