@@ -11,6 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript
+.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/react.svg" />
+
 <a href="https://github.com/mwdfn/MindSpace">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical" />
 </a>
