@@ -1,20 +1,4 @@
-<!-- <div style="padding-top:46.600%;position:relative;"> -->
-<!-- ![ATEd](https://user-images.githubusercontent.com/101065163/180074671-a5ac7286-c8c7-49cc-8c1b-a75a3b6dd9ee.gif padding-top:46.600% position:relative)
- -->
- 
-<!-- <img src="https://user-images.githubusercontent.com/101065163/180074671-a5ac7286-c8c7-49cc-8c1b-a75a3b6dd9ee.gif" alt="Banner Image" width="100%" height="100%"> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/101065163/180081465-6fb1b4d6-8ce4-4383-9ac4-9b8bd9e7268e.gif" alt="Banner Image" width="100%" height="100%"> -->
-<!-- ![ATEd(2)](https://user-images.githubusercontent.com/101065163/180082138-fec08992-493f-4af0-8647-3a47bae61b89.gif)
- -->
 <img src="https://user-images.githubusercontent.com/101065163/180082138-fec08992-493f-4af0-8647-3a47bae61b89.gif" alt="Banner Image" width="100%" height="100%">
- 
-<!--  ![ATEd](https://user-images.githubusercontent.com/101065163/180081465-6fb1b4d6-8ce4-4383-9ac4-9b8bd9e7268e.gif)
- -->
-<!-- 
-<div align="center">
-<div style="padding-top:46.600%;position:relative;"><iframe src="https://gifer.com/embed/ATEd" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-</div>  -->
 
 ## Hello there! I'm Mark  👋 
   
@@ -39,9 +23,12 @@
   <a href="https://github.com/mwdfn/MindSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
   </a>&nbsp;
+</div>
+<br/>
+<div align="center">
   <a href="https://github.com/mwdfn/fantastic_birds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>
-  </a>
+  </a>&nbsp;
 </div>
 <br/>
 <div align="center">
