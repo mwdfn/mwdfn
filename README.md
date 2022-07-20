@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div>Hello there! I'm Mark  👋</div>  
+## Hello there! I'm Mark  👋 
   
 
 - 👾 Passionate about front end development  
