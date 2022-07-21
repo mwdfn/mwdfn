@@ -23,7 +23,7 @@
   <a href="https://github.com/mwdfn/MindSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=MindSpace&theme=radical"/>&nbsp;
   </a>&nbsp;
-  <img src="https://user-images.githubusercontent.com/101065163/180097416-90adcda3-8399-4a76-bbc7-1766c2cb07b0.gif" alt="MindSpace Gif" width="45%" height="45%">
+  <img src="https://user-images.githubusercontent.com/101065163/180103619-cc98868e-8696-4528-9960-20a9ebd6ee64.gif" alt="MindSpace Gif" width="45%" height="45%">
 </div>
 <br/>
 <div align="center">
