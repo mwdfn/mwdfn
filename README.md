@@ -15,7 +15,9 @@
   
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Scotland  
-  
+
+![fantasticBirdsGifLoop]()
+
 <br/>
 
 ## Pinned Projects
@@ -30,12 +32,14 @@
   <a href="https://github.com/mwdfn/fantastic_birds">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>
   </a>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101065163/180105353-dc709b66-3aa9-4679-98f7-2d722d9e79a0.gif" alt="Fantastic Birds Gif" width="45%" height="45%">
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/mwdfn/gym_web_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
   </a>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101065163/180103619-cc98868e-8696-4528-9960-20a9ebd6ee64.gif" alt="MindSpace Gif" width="45%" height="45%">
 </div>
 
 <br/>
