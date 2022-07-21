@@ -26,6 +26,7 @@
   <img align="justify" src="https://user-images.githubusercontent.com/101065163/180103619-cc98868e-8696-4528-9960-20a9ebd6ee64.gif" alt="MindSpace Gif" width="45%" height="45%">
 </div>
 <br/>
+<br/> 
 <div align="center">
   <a href="https://github.com/mwdfn/fantastic_birds">
     <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=fantastic_birds&theme=radical"/>
@@ -33,6 +34,7 @@
   <img align="justify" src="https://user-images.githubusercontent.com/101065163/180105353-dc709b66-3aa9-4679-98f7-2d722d9e79a0.gif" alt="Fantastic Birds Gif" width="45%" height="45%">
 </div>
 <br/>
+<br/> 
 <div align="center">
   <a href="https://github.com/mwdfn/gym_web_app">
     <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
@@ -41,8 +43,9 @@
 </div>
 
 <br/>
+<br/> 
 
-## My Skill Set  
+## My Skills
 
 
 ### Development
@@ -74,7 +77,8 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="figma" alt="figma"/>&nbsp;
 </div>
 
-<br/>  
+<br/>
+<br/> 
 
 ## Github Stats  
 <div style="display: flex; flex-direction: row" align="center" gap="30px">
