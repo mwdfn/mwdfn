@@ -39,9 +39,8 @@
   <a href="https://github.com/mwdfn/gym_web_app">
     <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=mwdfn&repo=gym_web_app&theme=radical"/>&nbsp;
   </a>&nbsp;
-  <img align="justify" src="https://user-images.githubusercontent.com/101065163/180106700-214d78a2-5f71-48fe-99a3-b7ba0682afe2.png" alt="Gym App" width="45%" height="45%">
+  <img align="justify" src="https://user-images.githubusercontent.com/101065163/188127133-1dd1d48b-ed90-4749-9654-7ec74d3b99b9.png" alt="Gym App" width="45%" height="45%">
 </div>
-
 <br/>
 <br/> 
 
