@@ -105,11 +105,6 @@
 ## Github Stats  
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mwdfn&show_icons=true&count_private=true&theme=radical"
-    align="middle"
-    width="370"
-  />&nbsp;
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdfn&theme=radical&layout=compact"
     align="middle"
     width="281.5"
